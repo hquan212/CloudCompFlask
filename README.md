@@ -2,19 +2,22 @@
 
 Make sure you have the required programs installed to run:
 > Python
+
+
 > Docker-compose
 
 How to run,
 cd into main directory (Where the Dockerfile is)
 then run:
+
 > sudo docker-compose up --build
 
 Then go to chrome and type: 
-http://0.0.0.0:4000/ 
+http://0.0.0.0:5000/ 
 
 right now there is nothing on the website.
 
-This is activate the docerfile and make it run. 
+This is activate the dockerfile and make it run. 
 
 For the guide:
 https://medium.com/@riken.mehta/full-stack-tutorial-flask-react-docker-420da3543c91
